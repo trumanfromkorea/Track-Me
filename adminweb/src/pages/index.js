@@ -1,0 +1,6 @@
+export { default as Home } from './mainManagePage'
+export { default as Patient } from './patientManagePage'
+export { default as Quarantine } from './quarantineManagePage'
+export { default as Notice } from './noticeManagePage'
+export { default as Collection } from './collectionManagePage'
+export { default as Login } from './LoginHome'

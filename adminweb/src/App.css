@@ -1,0 +1,275 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.loginScreen {
+  width: 100vw;
+  height: 100vh;
+  background-color: #e5ebfd;
+}
+
+.idForm {
+  position: absolute;
+  left: 40vw;
+  top: 55vh;
+  width: 400px;
+  height: 50px;
+}
+
+.pwForm {
+  position: absolute;
+  left: 40vw;
+  top: 55vh;
+  width: 400px;
+  height: 50px;
+}
+
+.submitButton {
+  position: absolute;
+  left: 40vw;
+  top: 85vh;
+}
+
+.imgSize {
+  position: absolute;
+  left: 40vw;
+  top: 5vh;
+  width: 380px;
+  height: 380px;
+}
+
+.button1 {
+  position: absolute;
+  top: 230px;
+  left: 1000px;
+}
+
+.button2 {
+  position: absolute;
+  top: 230px;
+  left: 1220px;
+}
+
+#button3 {
+  position: absolute;
+  top: 590px;
+  left: 1400px;
+}
+
+#button4 {
+  position: absolute;
+  top: 560px;
+  left: 1400px;
+}
+
+.title-Pos {
+  position: fixed;
+  z-index: 100;
+  background-color: #ffffff;
+  width: 100%;
+  height: 50px;
+  flex-direction: row;
+}
+
+.title-img {
+  height: 60px;
+}
+
+.menu-Pos {
+  position: absolute;
+  left: 50px;
+  top: 150px;
+}
+
+.menu-Bar {
+  position: absolute;
+  left: 50px;
+  top: 100px;
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+KR&display=swap");
+
+.copyrights {
+  text-align: right;
+  margin-right: 50px;
+  padding-top: 5px;
+  font-family: "Noto Sans KR", sans-serif;
+}
+
+.footer {
+  position: fixed;
+  left: 0px;
+  bottom: 0px;
+  width: 100%;
+  height: 4vh;
+  background-color: #668ffd;
+  color: #ffffff;
+}
+
+#noticeTextAreaTitle {
+  position: absolute;
+  left: 380px;
+  top: 115px;
+  font-family: "Noto Sans KR", sans-serif;
+  color: #666666;
+}
+
+#noticeTextArea {
+  position: absolute;
+  left: 380px;
+  top: 155px;
+  width: 1000px;
+  height: 150px;
+  color: #666666;
+}
+
+#noticeButton {
+  position: absolute;
+  left: 1310px;
+  top: 320px;
+}
+
+#enteredNoticeTextAreaTitle1 {
+  position: absolute;
+  left: 380px;
+  top: 410px;
+  font-family: "Noto Sans KR", sans-serif;
+  color: #666666;
+}
+
+#enteredNoticeTextArea1 {
+  position: absolute;
+  left: 380px;
+  top: 450px;
+  width: 250px;
+  height: 200px;
+  color: #666666;
+}
+
+#enteredNoticeButton1 {
+  position: absolute;
+  left: 560px;
+  top: 670px;
+}
+
+#enteredNoticeTextAreaTitle2 {
+  position: absolute;
+  left: 750px;
+  top: 410px;
+  font-family: "Noto Sans KR", sans-serif;
+  color: #666666;
+}
+
+#enteredNoticeTextArea2 {
+  position: absolute;
+  left: 750px;
+  top: 450px;
+  width: 250px;
+  height: 200px;
+  color: #666666;
+}
+
+#enteredNoticeButton2 {
+  position: absolute;
+  left: 930px;
+  top: 670px;
+}
+
+#enteredNoticeTextAreaTitle3 {
+  position: absolute;
+  left: 1130px;
+  top: 410px;
+  font-family: "Noto Sans KR", sans-serif;
+  color: #666666;
+}
+
+#enteredNoticeTextArea3 {
+  position: absolute;
+  left: 1130px;
+  top: 450px;
+  width: 250px;
+  height: 200px;
+  color: #666666;
+}
+
+#enteredNoticeButton3 {
+  position: absolute;
+  left: 1310px;
+  top: 670px;
+}
+
+#table1 {
+  position: absolute;
+  left: 380px;
+  top: 330px;
+  width: 1000px;
+  text-align: center;
+}
+
+#table2 {
+  position: absolute;
+  left: 380px;
+  top: 100px;
+  width: 1000px;
+  text-align: center;
+}
+
+#table3 {
+  position: absolute;
+  left: 380px;
+  top: 330px;
+  width: 1000px;
+  margin-bottom: 444440px;
+  text-align: center;
+}
+
+.contentSearch1 {
+  position: absolute;
+  left: 380px;
+  top: 230px;
+}
+
+.contentSearch2 {
+  position: absolute;
+  left: 215px;
+  top: 230px;
+}
+
+.colorAll {
+  background-color: #ffffff;
+}
