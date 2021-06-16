@@ -58,7 +58,7 @@ Track Me 는 3가지 서비스로 이루어진 하나의 역학조사 자동화 
 ## 🧑🏻‍💻 참여자들
 |이름|역할|Email|
 |-----|---|---|
-|장재훈|📱App UI & Client, Main Logic|jangjh971008@naver.com|
-|박세환|🛠App Functions, Server|bluesky_96@nate.com|
-|송현석|🖥Web Frontend & Backend|gusqhdo00@naver.com|
-|이일환|⛓Blockchain , Bluetooth|poj0722@naver.com|
+|장재훈|📱 App UI & Client, Main Logic|jangjh971008@naver.com|
+|박세환|🛠 App Functions, Server|bluesky_96@nate.com|
+|송현석|🖥 Web Frontend & Backend|gusqhdo00@naver.com|
+|이일환|⛓ Blockchain , Bluetooth|poj0722@naver.com|
